@@ -1,0 +1,8 @@
+flask
+transformers
+torch
+PyPDF2
+python-docx
+sentencepiece
+sacremoses
+PyMuPDF
